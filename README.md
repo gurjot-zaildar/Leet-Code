@@ -13,6 +13,7 @@
 | [0771-jewels-and-stones](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0771-jewels-and-stones](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0001-two-sum) |
+| [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,4 +40,8 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
