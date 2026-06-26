@@ -15,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
