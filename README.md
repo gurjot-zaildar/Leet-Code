@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
