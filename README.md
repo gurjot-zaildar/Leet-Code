@@ -14,6 +14,7 @@
 | [0709-to-lower-case](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0283-move-zeroes) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
