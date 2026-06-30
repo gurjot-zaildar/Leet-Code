@@ -9,14 +9,14 @@ var trap = function(height) {
     let maxleft=height[0]
     let maxright=height[n-1]
 
-    left[0]=height[0]
-    for(let i=1;i<n;i++){
+   // left[0]=height[0]
+    for(let i=0;i<n;i++){
         maxleft= Math.max(maxleft,height[i])
         left[i]=maxleft;
     }
 
-    right[n-1]=height[n-1]
-      for(let i=n-2;i>=0;i--){
+    //right[n-1]=height[n-1]
+      for(let i=n-1;i>=0;i--){
         maxright= Math.max(maxright,height[i])
         right[i]=maxright;
     }
