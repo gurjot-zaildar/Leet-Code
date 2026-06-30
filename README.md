@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0202-happy-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0169-majority-element](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0283-move-zeroes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
