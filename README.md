@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/gurjot-zaildar/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurjot-zaildar/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1089-duplicate-zeros](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1089-duplicate-zeros) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gurjot-zaildar/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
